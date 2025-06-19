@@ -4,7 +4,6 @@ import Axios from "axios";
 import Coin from "./components/Coin";
 
 function App() {
-
   const [ListOfCoins, setListOfCoins] =useState([]);
   const [searchWord, setSearchWord] = useState("");
 
