@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Coin = ({name, image, current_price, symbol}) => {
   return (
